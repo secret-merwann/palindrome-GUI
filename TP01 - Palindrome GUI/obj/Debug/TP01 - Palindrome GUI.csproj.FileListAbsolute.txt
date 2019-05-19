@@ -1,0 +1,10 @@
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\bin\Debug\TP01 - Palindrome GUI.exe.config
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\bin\Debug\TP01 - Palindrome GUI.exe
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\bin\Debug\TP01 - Palindrome GUI.pdb
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01 - Palindrome GUI.csprojAssemblyReference.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01___Palindrome_GUI.Form1.resources
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01___Palindrome_GUI.Properties.Resources.resources
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01 - Palindrome GUI.csproj.GenerateResource.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01 - Palindrome GUI.csproj.CoreCompileInputs.cache
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01 - Palindrome GUI.exe
+C:\Users\Merwann\Desktop\Merwann\Workspaces\C#\TP01 - Palindrome GUI\TP01 - Palindrome GUI\obj\Debug\TP01 - Palindrome GUI.pdb
